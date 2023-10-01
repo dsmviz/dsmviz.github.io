@@ -1,0 +1,5 @@
+title: Dsmviz
+description: A tool to vizualize dependencies of hierarchical elements in a design structure matrix.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
