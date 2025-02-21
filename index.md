@@ -4,4 +4,4 @@ layout: default
 
 # Index
 
-Bla bl
+No releases or information available yet. See https://github.com/dsmviz/dsmviz.viewer for source code.
